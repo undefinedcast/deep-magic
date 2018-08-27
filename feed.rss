@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Undefined Cast</title>
+        <link>https://zosimos.app/undefined-cast</link>
+        <pubDate>Mon, 20 Aug 2018 18:21:00 +0000</pubDate>
+        <lastBuildDate>Mon, 20 Aug 2018 18:21:00 +0000</lastBuildDate>
+        <ttl>60</ttl>
+        <language>th</language>
+        <copyright>All rights reserved</copyright>
+        <webMaster>arm.armariya@gmail.com (Ariya Lawanitchanon)</webMaster>
+        <description>Podcast by Undefined Cast</descripiton>
+        <itunes:subtitle>Podcast by Undefined Cast</itunes:subtitle>
+        <itunes:owner>
+            <itunes:name>Ariya Lawanitchanon</itunes:name>
+            <itunes:email>arm.armariya@gmail.com</itunes:email>
+        </itunes:owner>
+        <itunes:author>Ariya Lawanitchanon</itunes:author>
+        <itunes:explicit>no</itunes:explicit>\
+        <itunes:image href="http://i1.sndcdn.com/avatars-000333972846-rjjahz-original.jpg" />
+        <image>
+            <url>http://i1.sndcdn.com/avatars-000333972846-rjjahz-original.jpg</url>
+            <title>Undefined Cast</title>
+            <link>https://zosimos.app/undefined-cast</link>
+        </image>
+        <itunes:category text="Education" />
+        <item>
+            <guid isPermaLink="false">tag:zosimos,Ep01</guid>
+            <title>EP04 - ไม่หยาบ = ไม่สนิท จริงหรือ?</title>
+            <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+            <link>https://zosimos.app/undefind-cast/ep04</link>
+            <itunes:duration>00:54:22</itunes:duration>
+            <itunes:author>Ariya Lawanitchanon</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:summary>
+                นี่คือ summary
+            </itunes:summary>
+            <itunes:subtitle>นี่คือ subtitle</itunes:subtitle>
+            <description>
+                นี่คือ description ซึ่งเป็นอันเดียวกับ summary
+            </description>
+            <enclosure type="audio/x-m4a" url="http://feeds.soundcloud.com/stream/422845320-undefined-cast-ep04.m4a" length="228907057"/>
+            <itunes:image href="http://i1.sndcdn.com/avatars-000333972846-rjjahz-original.jpg"/>
+        </item>
+    </channel>
+</rss>
