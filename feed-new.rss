@@ -3,7 +3,9 @@
     <channel>
         <title>Undefined Cast</title>
         <link>https://zosimos.app/undefined-cast<link>
+        <ttl>60</ttl>
         <language>th</language>
+        <copyright>All rights reserved</copyright>
         <itunes:subtitle>Podcast by Undefined Cast</itunes:subtitle>
         <itunes:author>Ariya Lawanitchanon</itunes:author>
         <itunes:summary>Description of podcast.</itunes:summary>
@@ -14,7 +16,7 @@
         </itunes:owner>
         <itunes:explicit>no</itunes:explicit>
         <itunes:image href="http://i1.sndcdn.com/avatars-000333972846-rjjahz-original.jpg" />
-        <itunes:category text="Technology"/></itunes:category>
+        <itunes:category text="Education"/>Education</itunes:category>
 
         <!--REPEAT THIS BLOCK FOR EACH EPISODE-->
         <item>
