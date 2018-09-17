@@ -1,8 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
       <channel>
-        <atom:link href="http://feeds.soundcloud.com/users/soundcloud:users:147854634/sounds.rss" rel="self" type="application/rss+xml"/>
-        <atom:link href="http://feeds.soundcloud.com/users/soundcloud:users:147854634/sounds.rss?before=399443868" rel="next" type="application/rss+xml"/>
         <title>Undefined Cast</title>
         <link>http://soundcloud.com/undefined-cast</link>
         <pubDate>Mon, 16 Jul 2018 17:11:42 +0000</pubDate>
@@ -25,7 +23,7 @@
           <title>Undefined Cast</title>
           <link>http://soundcloud.com/undefined-cast</link>
         </image>
-        <itunes:category text="Technology"/>
+        <itunes:category text="Education"/>
         <item>
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/422845320</guid>
       <title>EP04 - ไม่หยาบ = ไม่สนิท จริงหรือ?</title>
