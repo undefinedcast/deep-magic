@@ -1,37 +1,69 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
-    <channel>
+<?xml version='1.0' encoding='UTF-8'?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+      <channel>
+        <atom:link href="http://feeds.soundcloud.com/users/soundcloud:users:147854634/sounds.rss" rel="self" type="application/rss+xml"/>
+        <atom:link href="http://feeds.soundcloud.com/users/soundcloud:users:147854634/sounds.rss?before=399443868" rel="next" type="application/rss+xml"/>
         <title>Undefined Cast</title>
-        <link>https://zosimos.app/undefined-cast<link>
+        <link>http://soundcloud.com/undefined-cast</link>
+        <pubDate>Mon, 16 Jul 2018 17:11:42 +0000</pubDate>
+        <lastBuildDate>Mon, 16 Jul 2018 17:11:42 +0000</lastBuildDate>
         <ttl>60</ttl>
-        <language>th</language>
+        <language>en</language>
         <copyright>All rights reserved</copyright>
+        <webMaster>feeds@soundcloud.com (SoundCloud Feeds)</webMaster>
+        <description>Podcast by Undefined Cast</description>
         <itunes:subtitle>Podcast by Undefined Cast</itunes:subtitle>
-        <itunes:author>Ariya Lawanitchanon</itunes:author>
-        <itunes:summary>Description of podcast.</itunes:summary>
-        <description>Description of podcast.</description>
         <itunes:owner>
-            <itunes:name>Ariya Lawanitchanon</itunes:name>
-            <itunes:email>arm.armariya@gmail.com</itunes:email>
+          <itunes:name>Undefined Cast</itunes:name>
+          <itunes:email>feeds@soundcloud.com</itunes:email>
         </itunes:owner>
+        <itunes:author>Undefined Cast</itunes:author>
         <itunes:explicit>no</itunes:explicit>
         <itunes:image href="http://i1.sndcdn.com/avatars-000333972846-rjjahz-original.jpg"/>
+        <image>
+          <url>http://i1.sndcdn.com/avatars-000333972846-rjjahz-original.jpg</url>
+          <title>Undefined Cast</title>
+          <link>http://soundcloud.com/undefined-cast</link>
+        </image>
         <itunes:category text="Technology"/>
-
-        <!--REPEAT THIS BLOCK FOR EACH EPISODE-->
         <item>
-            <title>EP04 - ไม่หยาบ = ไม่สนิท จริงหรือ?</title>
-            <itunes:summary>Description of podcast episode content</itunes:summary>
-            <description>Description of podcast episode content</description>
-            <link>http://example.com/podcast-1</link>
-            <enclosure url="http://example.com/podcast-1/podcast.mp3" type="audio/mpeg" length="1024"></enclosure>
-            <pubDate>Thu, 21 Dec 2016 16:01:07 +0000</pubDate>
-            <itunes:author>Author Name</itunes:author>
-            <itunes:duration>00:32:16</itunes:duration>
-            <itunes:explicit>no</itunes:explicit>
-            <guid>http://example.com/podcast-1</guid>
-        </item> 
-        <!--END REPEAT-->
-   
-    </channel>
-</rss>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/422845320</guid>
+      <title>EP04 - ไม่หยาบ = ไม่สนิท จริงหรือ?</title>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/undefined-cast/ep04</link>
+      <itunes:duration>00:54:22</itunes:duration>
+      <itunes:author>Undefined Cast</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>ก็คือ ก่อนหน้านี้ จะมีปัญหาดราม่าสังคมกันเกี่ยวกับเรื่องคำหยาบกันมาเยอะนะครับ วันนี้ก็เลยจะมาชวนพูดคุยกันถึงประเด็นนี้กันดูครับ (: มีความคิดเห็นยังไงก็มาคุยกันได้นะครับ
+
+สำหรับวันนี้ พิธีกรมี อาร์ม, กิ้ง, นัธ, ต่อ, ทอ, กัน นะครับ
+
+สำหรับพูดคุยกับเราได้ทาง Facebook Fanpage &quot;Undefined Cast&quot; https://www.facebook.com/unclearcast/ สามารถกดที่ Link ได้เลยนะครับ
+
+ปล. แอบสปอยว่า เร็ว ๆ นี้นะครับ เราจะเปิดตัวรายการใหม่ &quot;Knowledge Cast&quot; สามารถรอติดตามชมกันได้เลยนะครับ</itunes:summary>
+      <itunes:subtitle>ก็คือ ก่อนหน้านี้ จะมีปัญหาดราม่าสังคมกันเกี่ยวกั…</itunes:subtitle>
+      <description>ก็คือ ก่อนหน้านี้ จะมีปัญหาดราม่าสังคมกันเกี่ยวกับเรื่องคำหยาบกันมาเยอะนะครับ วันนี้ก็เลยจะมาชวนพูดคุยกันถึงประเด็นนี้กันดูครับ (: มีความคิดเห็นยังไงก็มาคุยกันได้นะครับ
+
+สำหรับวันนี้ พิธีกรมี อาร์ม, กิ้ง, นัธ, ต่อ, ทอ, กัน นะครับ
+
+สำหรับพูดคุยกับเราได้ทาง Facebook Fanpage &quot;Undefined Cast&quot; https://www.facebook.com/unclearcast/ สามารถกดที่ Link ได้เลยนะครับ
+
+ปล. แอบสปอยว่า เร็ว ๆ นี้นะครับ เราจะเปิดตัวรายการใหม่ &quot;Knowledge Cast&quot; สามารถรอติดตามชมกันได้เลยนะครับ</description>
+      <enclosure type="audio/x-m4a" url="http://feeds.soundcloud.com/stream/422845320-undefined-cast-ep04.m4a" length="228907057"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000333972846-rjjahz-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/399443868</guid>
+      <title>EP03 - แฟน</title>
+      <pubDate>Wed, 14 Feb 2018 19:03:26 +0000</pubDate>
+      <link>https://soundcloud.com/undefined-cast/ep03</link>
+      <itunes:duration>01:13:14</itunes:duration>
+      <itunes:author>Undefined Cast</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>เดี๋ยวมาเติมมมม</itunes:summary>
+      <itunes:subtitle>เดี๋ยวมาเติมมมม</itunes:subtitle>
+      <description>เดี๋ยวมาเติมมมม</description>
+      <enclosure type="audio/x-m4a" url="http://feeds.soundcloud.com/stream/399443868-undefined-cast-ep03.m4a" length="106314503"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000302258034-2p45mj-original.jpg"/>
+    </item>
+      </channel>
+    </rss>
