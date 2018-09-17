@@ -15,8 +15,8 @@
             <itunes:email>arm.armariya@gmail.com</itunes:email>
         </itunes:owner>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:image href="http://i1.sndcdn.com/avatars-000333972846-rjjahz-original.jpg" />
-        <itunes:category text="Technology" />
+        <itunes:image href="http://i1.sndcdn.com/avatars-000333972846-rjjahz-original.jpg"/>
+        <itunes:category text="Technology"/>
 
         <!--REPEAT THIS BLOCK FOR EACH EPISODE-->
         <item>
