@@ -14,7 +14,7 @@
         </itunes:owner>
         <itunes:explicit>no</itunes:explicit>
         <itunes:image href="http://i1.sndcdn.com/avatars-000333972846-rjjahz-original.jpg" />
-        <itunes:category text="Education"/></itunes:category>
+        <itunes:category text="Technology"/></itunes:category>
 
         <!--REPEAT THIS BLOCK FOR EACH EPISODE-->
         <item>
