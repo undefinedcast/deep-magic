@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Undefined Cast</title>
-        <link>https://zosimos.app/undefined-cast</link>
+        <title>Deep Magic</title>
+        <link>https://deepmagic.witchcraft.studio</link>
         <pubDate>Mon, 20 Aug 2018 18:21:00 +0000</pubDate>
-        <lastBuildDate>Mon, 20 Aug 2018 18:21:00 +0000</lastBuildDate>
+        <lastBuildDate>Mon, 5 Nov 2018 00:46:00 +0000</lastBuildDate>
         <ttl>60</ttl>
         <language>th</language>
         <copyright>All rights reserved</copyright>
         <webMaster>arm.armariya@gmail.com (Ariya Lawanitchanon)</webMaster>
-        <description>Podcast by Undefined Cast</descripiton>
-        <itunes:subtitle>Podcast by Undefined Cast</itunes:subtitle>
+        <description>รายการนี้เป็นรายการที่จะพูดถึงเรื่องของการเป็น Developer นะครับ ถ้าใครสนใจก็มาติดตามได้นะครับ</descripiton>
+        <itunes:subtitle>รายการนี้เป็นรายการที่จะพูดถึงเรื่องของการเป็น Developer นะครับ ถ้าใครสนใจก็มาติดตามได้นะครับ</itunes:subtitle>
         <itunes:owner>
             <itunes:name>Ariya Lawanitchanon</itunes:name>
             <itunes:email>arm.armariya@gmail.com</itunes:email>
@@ -20,8 +20,8 @@
         <itunes:image href="http://i1.sndcdn.com/avatars-000333972846-rjjahz-original.jpg" />
         <image>
             <url>http://i1.sndcdn.com/avatars-000333972846-rjjahz-original.jpg</url>
-            <title>Undefined Cast</title>
-            <link>https://zosimos.app/undefined-cast</link>
+            <title>Deep Magic</title>
+            <link>https://deepmagic.witchcraft.studio</link>
         </image>
         <itunes:category text="Education" />
         <item>
