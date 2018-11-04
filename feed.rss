@@ -17,9 +17,9 @@
         </itunes:owner>
         <itunes:author>Ariya Lawanitchanon</itunes:author>
         <itunes:explicit>no</itunes:explicit>\
-        <itunes:image href="http://i1.sndcdn.com/avatars-000333972846-rjjahz-original.jpg" />
+        <itunes:image href="https://raw.githubusercontent.com/undefinedcast/deep-magic/master/assets/logo/DeepMagicLogo.png" />
         <image>
-            <url>http://i1.sndcdn.com/avatars-000333972846-rjjahz-original.jpg</url>
+            <url>https://raw.githubusercontent.com/undefinedcast/deep-magic/master/assets/logo/DeepMagicLogo.png</url>
             <title>Deep Magic</title>
             <link>https://deepmagic.witchcraft.studio</link>
         </image>
@@ -40,7 +40,7 @@
                 นี่คือ description ซึ่งเป็นอันเดียวกับ summary
             </description>
             <enclosure type="audio/x-m4a" url="http://feeds.soundcloud.com/stream/422845320-undefined-cast-ep04.m4a" length="228907057"/>
-            <itunes:image href="http://i1.sndcdn.com/avatars-000333972846-rjjahz-original.jpg"/>
+            <itunes:image href="https://raw.githubusercontent.com/undefinedcast/deep-magic/master/assets/logo/DeepMagicLogo.png"/>
         </item>
     </channel>
 </rss>
