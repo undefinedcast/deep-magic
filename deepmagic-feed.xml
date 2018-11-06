@@ -1,0 +1,78 @@
+<rss version="2.0" 
+    xmlns:media="http://search.yahoo.com/mrss" 
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule"
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    <channel>
+        <atom:link href="https://deepmagic.witchcraft.studio/rss/deepmagic-feed.xml" rel="self" type="application/rss+xml" />
+        
+        <title>Deep Magic</title>
+        <link>https://deepmagic.witchcraft.studio</link>
+        <description>นี่เป็นรายการที่จะแนะนำเทคนิคและเรื่องต่าง ๆ เกี่ยวกับ Developer มาติดตามกันได้นะครับ</description>
+        
+        <managingEditor>arm.armariya@gmail.com (Ariya Lawanitchanon)</managingEditor>
+        <webMaster>arm.armariya@gmail.com (Ariya Lawanitchanon)</webMaster>
+        
+        <language>th</language>
+        
+        <copyright>Copyright (C) 2018 Witchcraft Studio. All Rights Reserved.</copyright>
+        <creativeCommons:license>
+            https://creativecommons.org/licenses/by-nc-nd/4.0/
+        </creativeCommons:license>
+
+        <pubDate>Tue, 6 Nov 2018 00:00:00 GMT</pubDate>
+        <lastBuildDate>Tue, 6 Nov 2018 00:00:00 GMT</lastBuildDate>
+
+        <image>
+            <url>https://deepmagic.witchcraft.studio/assets/logo/DeepMagicLogo.png</url>
+            <title>Deep Magic</title>
+            <link>https://deepmagic.witchcraft.studio</link>
+        </image>
+
+        <docs>http://www.rssboard.org/rss-specification</docs>
+
+        <itunes:author>Witchcraft Studio</itunes:author>
+        <itunes:keywords>software,programming,game development,education</itunes:keywords>
+        <itunes:category text="Technology" />
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:image href="https://deepmagic.witchcraft.studio/assets/logo/DeepMagicLogo.png" />
+        <itunes:owner>
+            <itunes:name><![CDATA[Witchcraft Studio]]></itunes:name>
+            <itunes:email>arm.armariya@gmail.com</itunes:email>
+        </itunes:owner>
+
+        <item>
+            <title>EP 0: Welcome to the new world!</title>
+            <link>https://deepmagic.witchcraft.studio</link>
+            <description>
+                Welcome to the new world!! สวัสดีครับ​ ผมอาร์มนะครับ ยินดีที่ได้รู้จักกับทุกคนนะครับ สำหรับใน EP นี้จะเป็นการแนะนำตัวกันสั้น ๆ อธิบายรายการคร่าว ๆ นะครับ สวัสดีทุกคนนะครับ
+            </description>
+            <guid isPermaLink="false">tag:deepmagic</guid>
+            <pubDate>Tue, 6 Nov 2018 00:00:00 GMT</pubDate>
+
+            <media:content
+                medium="audio"
+                url="https://s3-ap-southeast-1.amazonaws.com/deep-magic/episodes/Deep+magic+EP+00+-+WHY+DEEP+MAGIC%3F.mp3"
+                type="audio/mpeg"
+                isDefault="true"
+                expression="full"
+                duration="186">
+                <media:title type="plain">EP 0: Welcome to the new world!</media:title>
+                <media:description>
+                    Welcome to the new world!! สวัสดีครับ​ ผมอาร์มนะครับ ยินดีที่ได้รู้จักกับทุกคนนะครับ สำหรับใน EP นี้จะเป็นการแนะนำตัวกันสั้น ๆ อธิบายรายการคร่าว ๆ นะครับ สวัสดีทุกคนนะครับ
+                </media:description>
+                <media:rating scheme="urn:simple">nonadult</media:rating>
+                <media:thumbnail url="https://deepmagic.witchcraft.studio/assets/logo/DeepMagicLogo.png" />
+                <media:keywords>
+                    software, programming, game development, education
+                </media:keywords>
+            </media:content>
+
+            <enclosure url="http://s3-ap-southeast-1.amazonaws.com/deep-magic/episodes/Deep+magic+EP+00+-+WHY+DEEP+MAGIC%3F.mp3" length="4459416" type="audio/mpeg" />
+
+            <itunes:image href="https://deepmagic.witchcraft.studio/assets/logo/DeepMagicLogo.png">
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>00:03:06</itunes:duration>
+        </item>
+    </channel>
+</rss>
