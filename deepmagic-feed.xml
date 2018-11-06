@@ -70,7 +70,7 @@
 
             <enclosure url="http://s3-ap-southeast-1.amazonaws.com/deep-magic/episodes/Deep+magic+EP+00+-+WHY+DEEP+MAGIC%3F.mp3" length="4459416" type="audio/mpeg"/>
 
-            <itunes:image href="https://deepmagic.witchcraft.studio/assets/logo/DeepMagicLogo.png">
+            <itunes:image href="https://deepmagic.witchcraft.studio/assets/logo/DeepMagicLogo.png"/>
             <itunes:explicit>no</itunes:explicit>
             <itunes:duration>00:03:06</itunes:duration>
         </item>
