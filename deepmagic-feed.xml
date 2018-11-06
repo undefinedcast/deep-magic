@@ -1,10 +1,10 @@
 <rss version="2.0" 
-    xmlns:media="http://search.yahoo.com/mrss" 
+    xmlns:media="http://search.yahoo.com/mrss/" 
     xmlns:atom="http://www.w3.org/2005/Atom"
     xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule"
     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
     <channel>
-        <atom:link href="https://deepmagic.witchcraft.studio/rss/deepmagic-feed.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://deepmagic.witchcraft.studio/rss/deepmagic-feed.xml" rel="self" type="application/rss+xml"/>
         
         <title>Deep Magic</title>
         <link>https://deepmagic.witchcraft.studio</link>
@@ -33,9 +33,9 @@
 
         <itunes:author>Witchcraft Studio</itunes:author>
         <itunes:keywords>software,programming,game development,education</itunes:keywords>
-        <itunes:category text="Technology" />
+        <itunes:category text="Technology"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:image href="https://deepmagic.witchcraft.studio/assets/logo/DeepMagicLogo.png" />
+        <itunes:image href="https://deepmagic.witchcraft.studio/assets/logo/DeepMagicLogo.png"/>
         <itunes:owner>
             <itunes:name><![CDATA[Witchcraft Studio]]></itunes:name>
             <itunes:email>arm.armariya@gmail.com</itunes:email>
@@ -62,13 +62,13 @@
                     Welcome to the new world!! สวัสดีครับ​ ผมอาร์มนะครับ ยินดีที่ได้รู้จักกับทุกคนนะครับ สำหรับใน EP นี้จะเป็นการแนะนำตัวกันสั้น ๆ อธิบายรายการคร่าว ๆ นะครับ สวัสดีทุกคนนะครับ
                 </media:description>
                 <media:rating scheme="urn:simple">nonadult</media:rating>
-                <media:thumbnail url="https://deepmagic.witchcraft.studio/assets/logo/DeepMagicLogo.png" />
+                <media:thumbnail url="https://deepmagic.witchcraft.studio/assets/logo/DeepMagicLogo.png"/>
                 <media:keywords>
                     software, programming, game development, education
                 </media:keywords>
             </media:content>
 
-            <enclosure url="http://s3-ap-southeast-1.amazonaws.com/deep-magic/episodes/Deep+magic+EP+00+-+WHY+DEEP+MAGIC%3F.mp3" length="4459416" type="audio/mpeg" />
+            <enclosure url="http://s3-ap-southeast-1.amazonaws.com/deep-magic/episodes/Deep+magic+EP+00+-+WHY+DEEP+MAGIC%3F.mp3" length="4459416" type="audio/mpeg"/>
 
             <itunes:image href="https://deepmagic.witchcraft.studio/assets/logo/DeepMagicLogo.png">
             <itunes:explicit>no</itunes:explicit>
