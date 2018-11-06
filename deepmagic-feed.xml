@@ -35,7 +35,7 @@
         <itunes:keywords>software,programming,game development,education</itunes:keywords>
         <itunes:category text="Technology"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:image href="https://deepmagic.witchcraft.studio/assets/logo/DeepMagicLogo.png"/>
+        <itunes:image href="http://deepmagic.witchcraft.studio/assets/logo/DeepMagicLogo.png"/>
         <itunes:owner>
             <itunes:name><![CDATA[Witchcraft Studio]]></itunes:name>
             <itunes:email>arm.armariya@gmail.com</itunes:email>
